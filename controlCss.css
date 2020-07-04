@@ -1,0 +1,10 @@
+.para-style{
+    font-size: 60px;
+    font-style: italic;
+    font-weight: bold;
+    color: red;
+}
+.btn{
+    padding: 5px 20px;
+    cursor: pointer;
+}
